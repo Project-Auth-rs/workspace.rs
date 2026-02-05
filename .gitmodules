@@ -1,0 +1,6 @@
+[submodule "core.rs"]
+	path = core.rs
+	url = git@github.com:Project-Auth-rs/core.rs.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:Project-Auth-rs/docs.git
